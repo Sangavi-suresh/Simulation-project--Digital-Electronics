@@ -36,6 +36,10 @@ A Karnaugh map (K-map) is a visual method used to simplify the algebraic express
 
 # PROGRAM
 
+NAME : Sangavi Suresh
+REGISTER NO:  212222230130
+
+```
 module assignment1 (x,y,z,f);
 input x,y,z;
 output f;
@@ -47,7 +51,7 @@ and (d,a,b,c);
 and (e,x,y,c);
 or (f,d,e);
 endmodule
-
+```
 # REFERENCE
 
 https://www.electroniclinic.com/sop-and-pos-digital-logic-designing-with-solved-examples/
